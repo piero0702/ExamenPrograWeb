@@ -1,5 +1,5 @@
 function calcularFarenheit(){
-    const dato = documet.getElementById("elemento");
+    const dato = documet.getElementById("elemento").innerHTML;
     let valorFarenheit = (parseInt(dato) - 32)*5/9;
-    window.alert(valorFarenheit);
+    document.getElementById("yop").innerHTML = dato;
 }
