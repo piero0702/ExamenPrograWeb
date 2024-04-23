@@ -1,0 +1,111 @@
+html{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    margin: 0px;
+    padding: 0px;  
+}
+main{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+header{
+    display: flex;
+}
+header img{
+    margin-right: 0px;
+}
+.listaHeader{
+    display: flex;
+    margin-left: 0px;
+}
+.listaHeader li{
+    list-style-type: none;
+    padding-left: 2rem;
+}
+.principal{
+    background-image: url(Evaluacion01/banner.jpg);
+    height: 720px;
+    color: white;
+    padding-left: 100px;
+}
+.principal h1{
+    font-size: 60px;
+    padding-top: 250px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.principal p{
+    margin-top: 0px;
+    font-size: 30px;
+    max-width: 600px;
+}
+.boton1{
+    background-color: #9BF00B;
+    color: green;
+    border-style: none;
+    font-weight: bold;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-transform: uppercase;
+}
+.boton2{
+    color: #9BF00B;
+    border-style: none;
+    background-color: black;
+    font-weight: bold;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-transform: uppercase;
+}
+.redesSociales{
+    display: flex;
+}
+.redesSociales p{
+    margin-left: 100px;
+}
+.redesSociales img{
+    padding-left: 5px;
+}
+.antesFooter{
+    display: flex;
+    background-color:#F2F2F2;
+    margin-bottom: 0px;
+}
+.antesFooter div{
+    padding-left: 100px;
+}
+.antesFooter div h3{
+    font-size: 15px;
+    padding-top: 15px;
+}
+.divFinal{
+    margin-bottom: 0px;
+}
+.divFinal ol{
+    margin-bottom: 0px;
+}
+.listaFinal{
+    padding-left: 0px;
+    list-style-type: none;
+    font-size: 13px;
+}
+.listaFinal li{
+    margin-bottom: 9px;
+}
+footer{
+    margin-top: 0px;
+    display: flex;
+    background-color:#F2F2F2;
+}
+footer p{
+    margin-left: 25px;
+    font-size: 13px;
+}
+.primerP{
+    margin-left: 1700px;
+}
